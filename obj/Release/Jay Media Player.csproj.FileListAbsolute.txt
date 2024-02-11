@@ -1,0 +1,17 @@
+D:\Projects\Jay Media Player\bin\Release\Jay Media Player.exe.config
+D:\Projects\Jay Media Player\bin\Release\Jay Media Player.exe
+D:\Projects\Jay Media Player\bin\Release\Jay Media Player.pdb
+D:\Projects\Jay Media Player\bin\Release\Interop.WMPLib.dll
+D:\Projects\Jay Media Player\bin\Release\AxInterop.WMPLib.dll
+D:\Projects\Jay Media Player\obj\Release\Jay Media Player.csproj.AssemblyReference.cache
+D:\Projects\Jay Media Player\obj\Release\Interop.WMPLib.dll
+D:\Projects\Jay Media Player\obj\Release\AxInterop.WMPLib.dll
+D:\Projects\Jay Media Player\obj\Release\Jay Media Player.csproj.ResolveComReference.cache
+D:\Projects\Jay Media Player\obj\Release\Notepad.AboutBox.resources
+D:\Projects\Jay Media Player\obj\Release\Jay_Media_Player.MediaPlayer.resources
+D:\Projects\Jay Media Player\obj\Release\Jay_Media_Player.Properties.Resources.resources
+D:\Projects\Jay Media Player\obj\Release\Jay Media Player.csproj.GenerateResource.cache
+D:\Projects\Jay Media Player\obj\Release\Jay Media Player.csproj.CoreCompileInputs.cache
+D:\Projects\Jay Media Player\obj\Release\Jay Media Player.exe
+D:\Projects\Jay Media Player\obj\Release\Jay Media Player.pdb
+D:\Projects\Jay Media Player\obj\Release\Jay Media Player.csproj.SuggestedBindingRedirects.cache
